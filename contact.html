@@ -8,20 +8,13 @@
     <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
-    <style>
-        body {
-            padding-bottom: 100px;
-        }
-        .nes-progress {
-            height: 30px;
-        }
+    <link rel="stylesheet" href="main.css">
 
-    </style>
 
 </head>
 
 <body>
-    <nav style="text-align: right; margin-top: 20px;">
+    <nav class="topNav">
         <div class="container">
             <a href="home.html">Home</a>
             <a href="portfolio.html">Portfolio</a>
@@ -32,7 +25,7 @@
 
     </nav>
 
-    <nav style="padding: 20px; border-bottom: 3px solid #ccc; margin-bottom: 20px;">
+    <nav class="nameNav">
         <div class="container">
             <h2 style="margin-bottom: 0;">
                 <i class="nes-jp-logo"></i>
@@ -60,7 +53,7 @@
     </div>
 
 
-    <form action="submit.html" :target="_blank" method="GET" style="margin-left: 30%; margin-right: 30%; padding: 80px;">
+    <form action="submit.html" :target="_blank" method="GET" class="form">
         <div class="nes-field">
         <label for="name">Name:</label>
         <input type="text" id="name" class="nes-input">

@@ -1,26 +1,37 @@
 # Pixel-Portfolio
-Testing out an outsource css style that looks like 8-bit art.
+<body>
+<h1>Testing out an outsource css style that looks like 8-bit art.</h1>
 
-Sources:
+<h4>Sources:</h4>
+<p>
 nostalgic-css.github.io/NES.css/#
 github.com/nostalgic-css/NES.css
 github.com/kristoferjoseph/flexboxgrid
 flexboxgrid.com
+</p>
 
-Created pages below:
-1.Portfollio
-2.About
-3.Contact
-4.Home
-5.Home2
-6.Home3
-7.Home4
-8.Submit
+<li>Created pages below:  
+  <ul>
+    Portfollio
+    About
+    Contact
+    Home
+    Home2
+    Home3
+    Home4
+    Submit
+  </ul>  
+</li>
 
-Added styling:
-1.main.css
-2.main.js
+<li>Added styling:
+  <ul>
+    main.css
+    main.js
+  </ul>
+</li>
 
+<p>
 Added photos with pixalated styling and more details about me.
+</p>
 
-
+</body>

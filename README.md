@@ -14,7 +14,7 @@
 
 <ul>Created pages below:  
   <li>Portfollio</li>
-  <li>About<li>
+  <li>About</li>
   <li>Contact</li>
   <li>Home</li>
   <li>Home2</li>

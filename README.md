@@ -11,8 +11,8 @@
   <p>github.com/kristoferjoseph/flexboxgrid</p>
   <p>flexboxgrid.com</p>
 
-
-<ul>Created pages below:  
+<p>Created pages below:  </p>
+<ul>
   <li>Portfollio</li>
   <li>About</li>
   <li>Contact</li>
@@ -23,7 +23,8 @@
   <li>Submit</li>  
 </ul>
 
-<ul>Added styling:
+<p>Added styling:</p>
+<ul>
   <li>main.css</li>
   <li>main.js</li>
 </ul>

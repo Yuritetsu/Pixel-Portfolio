@@ -1,3 +1,3 @@
 setTimeout(() => {
-    window.location.href = window.location.origin + 'Pixel-Portfolio/home.html'
+    window.location.href = 'home.html'
 }, 5000)

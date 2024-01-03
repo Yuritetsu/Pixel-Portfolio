@@ -8,21 +8,21 @@
   <p>github.com/kristoferjoseph/flexboxgrid</p>
   <p>flexboxgrid.com</p>
 
-<li>Created pages below:  
-  <ul>Portfollio</ul>
-  <ul>About<ul>
-  <ul>Contact</ul>
-  <ul>Home</ul>
-  <ul>Home2</ul>
-  <ul>Home3</ul>
-  <ul>Home4</ul>
-  <ul>Submit</ul>  
-</li>
+<ul>Created pages below:  
+  <li>Portfollio</li>
+  <li>About<li>
+  <li>Contact</li>
+  <li>Home</li>
+  <li>Home2</li>
+  <li>Home3</li>
+  <li>Home4</li>
+  <li>Submit</li>  
+</ul>
 
-<li>Added styling:
-  <ul>main.css</ul>
-  <ul>main.js</ul>
-</li>
+<ul>Added styling:
+  <li>main.css</li>
+  <li>main.js</li>
+</ul>
 
 <p>
 Added photos with pixalated styling and more details about me.

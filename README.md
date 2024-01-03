@@ -3,7 +3,7 @@
 <html lang="en">
   
 <body>
-<h1>Testing out an outsource css style that looks like 8-bit art.</h1>
+
 
 <h4>Sources:</h4>
   <p>nostalgic-css.github.io/NES.css/#</p>

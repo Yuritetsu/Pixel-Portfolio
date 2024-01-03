@@ -1,8 +1,26 @@
 # Pixel-Portfolio
 Testing out an outsource css style that looks like 8-bit art.
 
-Created Portfollio, About, Contact, Home html pages plus html pages for the intractive home page. Used an external css stylesheet for the 8-bit style. Added photo with added pixalated style to fit the theme. Added Contact page plus submit html. Most styling are inline in the html pages with some more general styling in another external css file. 
+Sources:
+nostalgic-css.github.io/NES.css/#
+github.com/nostalgic-css/NES.css
+github.com/kristoferjoseph/flexboxgrid
+flexboxgrid.com
 
-Added javascript file for alert message.
+Created pages below:
+-Portfollio
+-About
+-Contact
+-Home
+-Home2
+-Home3
+-Home4
+-Submit
+
+Added styling:
+-main.css
+-main.js
+
+Added photos with pixalated styling and more details about me.
 
 

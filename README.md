@@ -1,4 +1,7 @@
 # Pixel-Portfolio
+<!DOCTYPE html>
+<html lang="en">
+  
 <body>
 <h1>Testing out an outsource css style that looks like 8-bit art.</h1>
 
@@ -7,6 +10,7 @@
   <p>github.com/nostalgic-css/NES.css</p>
   <p>github.com/kristoferjoseph/flexboxgrid</p>
   <p>flexboxgrid.com</p>
+
 
 <ul>Created pages below:  
   <li>Portfollio</li>
@@ -29,3 +33,4 @@ Added photos with pixalated styling and more details about me.
 </p>
 
 </body>
+</html>

@@ -8,18 +8,18 @@ github.com/kristoferjoseph/flexboxgrid
 flexboxgrid.com
 
 Created pages below:
--Portfollio
--About
--Contact
--Home
--Home2
--Home3
--Home4
--Submit
+1.Portfollio
+2.About
+3.Contact
+4.Home
+5.Home2
+6.Home3
+7.Home4
+8.Submit
 
 Added styling:
--main.css
--main.js
+1.main.css
+2.main.js
 
 Added photos with pixalated styling and more details about me.
 
